@@ -1,0 +1,20 @@
+.bg_img{
+    background-image: url(../public/images/hm1-bg-1\ -\ Copy.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    object-fit: fill;
+}
+.banner{
+    background-image: url(../public/images/banner-bg-1.jpg);
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+.bg_img1{
+    background-image: url(../public/images/hm1-bg-1\ -\ Copy.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40vh;
+    object-fit: fill;
+}
